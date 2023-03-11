@@ -1,6 +1,6 @@
 import streamlit as st
-import numpy as np
-import matplotlib.pyplot as plt
+import scikit-learn
+import plotly
 
 a = st.number_input('Tham số a')
 b = st.number_input('Tham số b')
